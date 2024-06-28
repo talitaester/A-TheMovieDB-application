@@ -1,6 +1,6 @@
 # The Movie DB - Aplicação
 
-O projeto MovieDB tem como objetivo explorar a API do site [TheMovieDB](https://www.themoviedb.org/) e aprender a configurar a comunicação entre front-end e back-end em um mesmo projeto. O lado server-side será responsável por habilitar o servidor, puxar as informações da API do TheMovieDB e disponibilizá-las para o front-end. O lado client-side será responsável por obter os dados do servidor local e estruturar a página, transformando os dados em um site de filmes. Nesse projeto foi utilizado Typescript, React e NextJs no front-end e Typescript ExpressJS, Prisma ORM e SQlite para o back-end.
+O projeto MovieDB tem como objetivo explorar a API do site [TheMovieDB](https://www.themoviedb.org/) e aprender a configurar a comunicação entre front-end e back-end em um mesmo projeto. O lado server-side é responsável por habilitar o servidor, puxa as informações da API do TheMovieDB e as disponibiliza para o front-end. O lado client-side é responsável por obter os dados do servidor local e estruturar a página, transformando os dados em um site de filmes. Nesse projeto foi utilizado Typescript, React e NextJs no front-end e Typescript ExpressJS, Prisma ORM e SQlite para o back-end.
 
 
 ## Funcionalidades
