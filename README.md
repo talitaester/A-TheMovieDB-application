@@ -5,12 +5,12 @@ O projeto MovieDB tem como objetivo explorar a API do site [TheMovieDB](https://
 
 ## Funcionalidades
 
-- **Cadastro de Usuário**: Deve ser possível se cadastrar como usuário.
-- **Login de Usuário**: Deve ser possível fazer login como usuário.
-- **Página Principal**: Deve ser possível acessar a página principal com todos os filmes.
-- **Busca de Filmes**: Deve ser possível buscar um filme pelo nome.
-- **Favoritar Filmes**: Deve ser possível favoritar um filme.
-- **Verificação de Favoritos**: Deve ser possível verificar filmes favoritos.
-- **Excluir Favoritos**: Deve ser possível excluir filmes favoritos.
+- **Cadastro de Usuário**: se cadastrar como usuário.
+- **Login de Usuário**: fazer login como usuário.
+- **Página Principal**: acessar a página principal com todos os filmes.
+- **Busca de Filmes**: buscar um filme pelo nome.
+- **Favoritar Filmes**: favoritar um filme.
+- **Verificação de Favoritos**: verificar filmes favoritos.
+- **Excluir Favoritos**:  excluir filmes favoritos.
 
 
